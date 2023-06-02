@@ -7,7 +7,16 @@
     color: #FD6E0A;
     ;
 }
-
+.btn-secound{
+    font-weight: 700;
+    font-size: 20px;
+    border: 1cap;
+    border-color: #FD6E0A;
+    padding: 18px 35px;
+    color: #FD6E0A;
+    height: 64px;
+    border-radius: 5px;
+}
 .btn-primary {
     font-weight: 700;
     font-size: 20px;
@@ -30,7 +39,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
